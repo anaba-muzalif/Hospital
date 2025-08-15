@@ -1,0 +1,17 @@
+body {
+    background-image: url('/images/doctor.jpg');
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(4, 131, 222);
+    cursor: pointer;
+    border: 10px solid rgba(7, 21, 226, 0.7)
+}
+
+li {
+    list-style-type: disc;
+    color: white;
+}

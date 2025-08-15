@@ -1,0 +1,36 @@
+11/08/2025	14:28:27	657d907c-912d-4b19-9a4f-82bac60efae6	Error	CORS error
+11/08/2025	14:28:49	d45d663f-8b2f-4595-998c-c4c9cc279b5e	Error	CORS error
+11/08/2025	14:28:51	ffdac184-ad14-4d87-94bd-2047cf9ae650	Error	CORS error
+11/08/2025	14:34:20	f522f6d4-e830-4a64-a83c-715def8cec33	Error	CORS error
+11/08/2025	14:34:21	83016139-162f-4ce5-a443-fc250736fbee	Error	CORS error
+11/08/2025	16:28:36	c2566935-2d65-4d91-850b-0ea23513572b	Error	Cannot set headers after they are sent to the client
+11/08/2025	16:29:01	58910259-79fe-4b51-974d-4987c5395ec4	Error	Cannot set headers after they are sent to the client
+11/08/2025	16:29:16	6cde0c42-d794-4b71-8891-b46bf6096f28	Error	Cannot set headers after they are sent to the client
+11/08/2025	16:30:45	486ca80a-28f8-4aea-8aea-70e1c7dacdd3	Error	Cannot set headers after they are sent to the client
+11/08/2025	16:30:54	cb5323e5-0788-45b8-99cc-29535e58bea0	Error	Cannot set headers after they are sent to the client
+11/08/2025	17:05:19	107236fd-e61c-43d5-89cd-49865cf6687d	TypeError	authHeader?.startsWith is not a function
+11/08/2025	17:06:33	76d86033-93e7-4738-9491-fe773ac24be3	ReferenceError	startsWith is not defined
+11/08/2025	17:07:00	95c1fa8f-5ee6-4724-8213-6140cd8f2842	TypeError	authHeader.split is not a function
+11/08/2025	19:03:03	0720cfa6-091b-47b4-994e-d9d25792a8bf	TypeError	res.clearCoookie is not a function
+11/08/2025	19:03:55	6bdf0f21-dfe6-4567-9033-a28c93cbae5a	TypeError	res.clearCoookies is not a function
+11/08/2025	19:04:49	5d49a014-b1c3-4097-b459-76a06255b8f0	TypeError	res.clearCoookie is not a function
+11/08/2025	19:05:13	4fa0c041-33f3-424a-86c7-a2dc277e18a0	TypeError	res.clearCoookie is not a function
+11/08/2025	19:07:43	6a47420a-9f76-4566-8961-f78f98ee3592	TypeError	Cannot set properties of null (setting 'refreshToken')
+12/08/2025	14:25:10	aa934c2b-e819-444a-abc3-712f685e59b3	SyntaxError	Unexpected token ',', ..."dNumber": ,
+    "ad"... is not valid JSON
+12/08/2025	14:26:14	1f5cfe39-3e6e-478f-989c-e9d1c62c9c54	ValidationError	Patient validation failed: birthDate: Cast to date failed for value "12th August, 1990" (type string) at path "birthDate", admissionDate: Cast to date failed for value "10th August,2025" (type string) at path "admissionDate"
+12/08/2025	14:43:58	e0a4b5fc-7d2e-4b00-a680-c340b62d0640	ValidationError	Patient validation failed: admissionDate: Cast to date failed for value "10th August,2025" (type string) at path "admissionDate"
+12/08/2025	14:50:48	d6787810-3e67-4b21-a413-4dbc154ed1d4	TypeError	foundPatient.save is not a function
+12/08/2025	14:58:46	3d1b764d-48af-4e2a-a86f-0948ee9691fa	ReferenceError	updatedPatient is not defined
+12/08/2025	16:45:30	f05c7348-c576-454c-863c-6a7330119dc1	SyntaxError	Unexpected token ',', ..."dNumber": ,
+    "di"... is not valid JSON
+12/08/2025	16:45:35	56dbb921-67d3-4f16-ae43-2ceee635ea76	SyntaxError	Unexpected token ',', ..."dNumber": ,
+    "di"... is not valid JSON
+12/08/2025	16:45:56	cb46a524-7692-48c1-af10-b5ac3b7cebb6	SyntaxError	Unexpected token ',', ..."dNumber": ,
+    "di"... is not valid JSON
+12/08/2025	17:08:07	e30c7df4-0de0-49f3-957c-aace07f3c97b	SyntaxError	Unexpected end of JSON input
+12/08/2025	17:08:16	89966d5e-51d2-4d0c-ac65-fbeb3b1cae84	SyntaxError	Unexpected end of JSON input
+13/08/2025	15:33:30	f56d5c3b-2870-4de0-ba04-f792dab6e049	Error	Cannot set headers after they are sent to the client
+13/08/2025	15:52:03	c210fd3f-3e21-44d9-97d6-fabd61a0b311	Error	Cannot set headers after they are sent to the client
+13/08/2025	21:50:22	e2952e8b-8387-4dd6-b67e-7ba0257c2b64	Error	Cannot set headers after they are sent to the client
+13/08/2025	21:57:57	4956823f-adae-4959-bfd1-b113f7e2970a	Error	Cannot set headers after they are sent to the client
